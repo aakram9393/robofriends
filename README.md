@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Welcome to Robofriends App , in order to start please move to the App directory
+### `cd robofriends-project`
+
 ## Available Scripts
 
 In the project directory, you can run:
